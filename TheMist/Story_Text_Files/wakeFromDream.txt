@@ -1,0 +1,19 @@
+                            Capitulo Uno
+"Imagen de un hombre viendo por la ventana"
+Noche dificil, los rayos que venian de la montana no te dejaron dormir.
+"Inserte Nombre de Jugador", baja se va a hacer tarde y tienes que irte.
+Otra vez tendre que llevar al nino a la escuela, otra semana que se repite igual que la anterior, la monotonia me esta matando.
+Pero por alguna razon creo que mi aburrimiento terminara pronto....
+
+"Imagen de hombre entrando al auto"
+Es extrano la niebla baja muy rapido de la montana hoy. (Presentar decicion de si ir a la escuela o no, esta decicion afectara a la trama)
+[Si la respuesta es si] Seria prudente conducir lento en la carretera hay cualquier loco.
+
+"Imagen de hombre conduciendo"
+La niebla sigue bajando y no se ve nada mas alla de 3 metros en la carretera.
+(Escuchas en la radio que todas las escuelas cerraron a causa de la niebla) Oh Mierda! (Presentar decision si dar vuelta al auto o no, esta decicion afectara a la trama)
+Lo que me faltaba, que perdida de tiempo.
+[Si la respuesta es no]Pues ya estoy en el pueblo y la niebla es muy espesa, pareciera que tiene vida propia.
+Tendre que determe, por suerte el supermercado sigue abierto.
+
+"Fin del Capitulo Uno"
